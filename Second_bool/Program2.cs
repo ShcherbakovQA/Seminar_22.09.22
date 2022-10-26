@@ -14,6 +14,8 @@ bool result = (CheckMod(a,7) && CheckMod(a,23));
 
 if (CheckMod(a,7) && CheckMod(a,23))
 Console.WriteLine("Верно!");
+else
+Console.WriteLine("Не верно!");
 
 
 
